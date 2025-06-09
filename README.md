@@ -67,8 +67,6 @@ Pull Requests são bem-vindos! Para grandes mudanças, abra uma issue primeiro p
 
 ## ✉️ Contato
 
-Para sugestões ou dúvidas: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+Para sugestões ou dúvidas: [seuemail@exemplo.com](mailto:izaldirjuniorgv@hotmail.com)
 
 ---
-
-> Desenvolvido com ❤️ para ajudar no controle financeiro pessoal.
